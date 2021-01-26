@@ -1,4 +1,4 @@
-# ImageSteganography
+# Image Steganography
 
 Developed a software to hide text in images by encryption techniques such as *LSB (Least Significant Bit)* and *DCT (Discrete Cosine Transform)*.  
 
